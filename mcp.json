@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "builders-zone": {
+      "url": "https://builders.zone/api/mcp"
+    }
+  }
+}

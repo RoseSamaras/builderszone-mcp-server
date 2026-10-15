@@ -1,0 +1,12 @@
+{
+  "name": "builders-zone",
+  "displayName": "builders.zone",
+  "version": "1.0.0",
+  "description": "Connect Cursor to builders.zone: the cohort path, guides and prompts for the Athens bootcamp, plus the boilerplate. Sign in once with your builders.zone account.",
+  "author": { "name": "builders.zone" },
+  "homepage": "https://builders.zone/mcp",
+  "repository": "https://github.com/RoseSamaras/builders-zone-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["builders.zone", "cohort", "bootcamp", "founders", "mcp", "boilerplate", "nextjs"],
+  "logo": "assets/logo.svg"
+}
